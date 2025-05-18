@@ -1,0 +1,30 @@
+.env
+# Binaries and executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.test
+
+# Dependency management
+vendor/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*.iml
+
+# Log and temporary files
+*.log
+*.tmp
+*.cache/
+
+# Other files
+*.zip
